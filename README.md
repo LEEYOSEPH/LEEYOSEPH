@@ -18,6 +18,3 @@
 
 </div><br/><br/>
   <h3 align="center">⚫⚫⚫</h3><br>
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://gororingcoding.tistory.com/)](https://gororingcoding.tistory.com/)
-   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=laksmi06281@gmail.com)](laksmi06281@gmail.com)
-  
