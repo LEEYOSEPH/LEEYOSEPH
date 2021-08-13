@@ -9,7 +9,7 @@
 
 
 
-<h3 aling="center">💻 Tech Stack💻</h3>
+<h3 align="center">💻 Tech Stack💻</h3>
                             
                             
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
